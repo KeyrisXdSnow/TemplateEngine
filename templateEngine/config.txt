@@ -1,0 +1,3 @@
+"value" = "Put"
+"value1" = "Put1"
+"video" = "/Laba4/templateEngine/files/cat.mp4"

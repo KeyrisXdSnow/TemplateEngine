@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RegularEx</title>
+</head>
+<body>
+<section>
+    <p> Template html </p>
+    <video src = {CONFIG="video"} alt = not found controls> </video>
+    {IF "1" < "2" } {FILE = "\Laba4\templateEngine\files\sw.jpg" } {ELSE} {FILE = "\Laba4\templateEngine\files\1.png" } {ENDIF}
+    {IF {CONFIG="value"}<{CONFIG="value"}} PART1 {ELSE} PART2 {ENDIF}
+    <br>{FILE = "E:\Labs\WT\Laba4\templateEngine\files\text.txt"}<br>
+    {FILE = "\Laba4\templateEngine\files\starWars.jpg" }
+    <br> {FILE = "/Laba4/templateEngine/files/cat.mp4" } <br>
+    <p> {CONFIG="value"}  </p>
+    <p> {CONFIG="value1"}  </p>
+</section>
+</body>
+</html>
+
+
